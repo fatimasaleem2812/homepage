@@ -1,0 +1,60 @@
+*{
+    background-color:  whitesmoke
+}
+.home{
+background-color:blue;
+height: 50px;
+color: white;
+text-align: center;
+}
+.image{
+    width: 20px;
+    height: 20%;
+}
+.image{
+    margin-left:90px;
+}
+#u{
+    margin-left: 1000px;
+    background-color: white;
+    color: black;
+    height: 30px;
+   
+}
+.up{
+  margin-left: 700px;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 100px;
+}
+
+
+.wedo{
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+.intro{
+    display: center;
+ padding-left: 150px;
+ padding-right: 150px;
+}
+
+#s{
+    background-color: white;
+    color: black;
+    height: 30px;
+}
+#d{
+    background-color: white;
+    color: black;
+    height: 30px;
+}
+.navi{
+    display: inline-block;
+    margin-left: 50px;
+    padding-left: 20px;
+    }
+   .nav-bar{
+       position: fixed;
+   }
